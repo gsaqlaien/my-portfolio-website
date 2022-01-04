@@ -70,6 +70,12 @@ section {
     
 }
 
+#web-dev-experience {
+    border-image: linear-gradient(rgb(248, 50, 15), orange);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
 .section {
     display: flex;
     
@@ -87,4 +93,10 @@ section {
 .section {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+}
+
+#web-dev-imo {
+    border-image: linear-gradient(rgb(28, 6, 224), rgb(6, 193, 240));
+    border-image-slice: 1;
+    border-left: 7px solid;
 }
