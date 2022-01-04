@@ -76,8 +76,11 @@ section {
     border-left: 7px solid;
 }
 
-.section {
+.flexible-container {
     display: flex;
+    margin-bottom: 150px;
+    margin-left: 20px;
+    padding: 12px 20px
     
 }
 
