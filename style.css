@@ -1,6 +1,7 @@
 body {
     font-family: 'Quicksand', sans-serif;
-    background-color: #f9f9f9;
+    
+    margin: 0
 }
 .orange-color {
     font-size: 50px;
@@ -37,5 +38,6 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    
 
 }
