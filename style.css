@@ -19,11 +19,11 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 2%;
 }
 
 .half-width img {
-    width: 100%;
+    width: 80%;
     
 }
 
@@ -40,4 +40,51 @@ section {
     background-repeat: no-repeat;
     
 
+}
+
+.half-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    padding: 12px 40px;
+    
+}
+
+.half-half {
+    box-shadow: 10px 10px 40px grey;
+    margin-right: 80px;
+    
+}
+
+.color {
+    color: orange;
+}
+
+.half-border {
+    box-shadow: 10px 10px 50px grey;
+    padding: 2%;
+    margin: 40px 60px;
+    width: 80%;
+    padding: 2%;
+    border-left: 3px solid blue;
+    
+}
+
+.section {
+    display: flex;
+    
+}
+
+.he {
+    margin-left: 40px
+}
+.footer {
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
